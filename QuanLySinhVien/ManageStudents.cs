@@ -4,7 +4,7 @@ using System.Text;
 
 namespace QuanLySinhVien
 {
-    internal class Students
+    internal class ManageStudents
     {
 
         class Student
